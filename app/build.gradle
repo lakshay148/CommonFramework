@@ -31,18 +31,18 @@ dependencies {
 
 ext {
     bintrayRepo = 'maven'
-    bintrayName = 'Common Framework'
+    bintrayName = 'AndroidFramework'
 
-    publishedGroupId = 'com.truedev.commonframework'
-    libraryName = 'CommonFramework'
-    artifact = 'Common'
+    publishedGroupId = 'com.truedev.framework'
+    libraryName = 'AndroidFramework'
+    artifact = 'app'
 
-    libraryDescription = 'A library for selection of images from android device camera or gallery'
+    libraryDescription = 'A library which contains common android framework items'
 
-    siteUrl = 'https://github.com/lakshaygirdhar/neon'
-    gitUrl = 'https://github.com/lakshaygirdhar/neon'
+    siteUrl = 'https://github.com/lakshay148/CommonFramework.git'
+    gitUrl = 'https://github.com/lakshay148/CommonFramework.git'
 
-    libraryVersion = '1.0.0'
+    libraryVersion = '1.0.1'
 
     developerId = 'lakshay'
     developerName = 'Lakshay Girdhar'
