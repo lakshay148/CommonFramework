@@ -39,7 +39,7 @@ ext {
     siteUrl = 'https://github.com/lakshay148/CommonFramework.git'
     gitUrl = 'https://github.com/lakshay148/CommonFramework.git'
 
-    libraryVersion = '1.0.4'
+    libraryVersion = '1.0.7'
 
     developerId = 'lakshay'
     developerName = 'Lakshay Girdhar'
