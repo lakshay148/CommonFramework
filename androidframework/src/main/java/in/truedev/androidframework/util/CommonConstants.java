@@ -1,4 +1,4 @@
-package com.truedev.commonframework.util;
+package in.truedev.androidframework.util;
 
 /**
  * @author lakshaygirdhar

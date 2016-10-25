@@ -1,4 +1,4 @@
-package com.truedev.commonframework.activity;
+package in.truedev.androidframework.activity;
 
 import android.support.v7.app.AppCompatActivity;
 /**

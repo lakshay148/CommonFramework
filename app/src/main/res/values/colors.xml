@@ -9,6 +9,7 @@
     <color name="grey">#D3D3D3</color>
     <color name="white">#FFFFFF</color>
     <color name="blue_grey">#607D8B</color>
+    <color name="green">#00FF00</color>
     <color name="light_green">#8BC34A</color>
     <color name="strokeColor">#CECECE</color>
     <color name="transparent"> #00000000</color>

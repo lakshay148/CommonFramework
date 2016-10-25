@@ -1,4 +1,4 @@
-package com.truedev.commonframework.activity;
+package in.truedev.androidframework.activity;
 
 /**
  * @author lakshaygirdhar
