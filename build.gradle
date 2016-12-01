@@ -20,6 +20,10 @@ allprojects {
         jcenter()
         mavenCentral()
     }
+
+    ext{
+        supportLibraryVersion = "25.0.1"
+    }
 }
 
 task clean(type: Delete) {
